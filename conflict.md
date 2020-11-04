@@ -8,7 +8,7 @@
 <body>
 
 <h1>
-Siin on meie tööleht"
+See on lahe tööleht"
 </h1>
     
 </body>
