@@ -8,7 +8,7 @@
 <body>
 
 <h1>
-Siin on meie tööleht"
+Oled ilus!
 </h1>
     
 </body>
